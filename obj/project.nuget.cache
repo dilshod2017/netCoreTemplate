@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehaobTSM2ur47i+DnJajdZv+ABmTLmthNBexdaJ3wLMesPbHbA+fBqDbNVWHq0GRs+tV0pGMjd3GnSlJuf34KA==",
+  "success": true,
+  "projectFilePath": "E:\\SelfProject\\netCoreTemplate\\netCoreTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\another PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\another PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
